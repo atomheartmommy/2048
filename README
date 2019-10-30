@@ -1,9 +1,1 @@
-Names: 		Kamil Ahmed Aslam and Adrian Zhang
-Net IDs: 	kaslam2	and azhang38
 
-All relevant commentary is included in the respective classes. 
-
-- 	Main.java runs the program
-- 	Operations.java adds the arrays together
-- 	GenerateArray.Java prints the initial array and subsequent arrays
-- 	Movement.java tracks users inputs
